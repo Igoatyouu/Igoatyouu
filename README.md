@@ -71,6 +71,10 @@ Binary analysis, emulation, exploitation, Android modding.
 
 ## Connect
 
+<a href="https://www.linkedin.com/in/axel-tacheau/">
+<img src="https://img.shields.io/badge/LinkedIn-axel--tacheau-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="mailto:axel.tacheau@epitech.eu">
 <img src="https://img.shields.io/badge/Email-axel.tacheau%40epitech.eu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
